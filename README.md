@@ -1,6 +1,6 @@
-- [Reach Me](#-Reach Me)
-- [Email](#-Email)  <sharon.n.njuraita@gmail.com>
-- [Github](#-Github) <https://github.com/Njuraita>
-- [LinkedIn](#-LinkedIn-) <www.linkedin.com/in/sharon-njeri-njuraita>
-- [Medium](#-Medium) <>
-- [Portfolio](#-Portfolio) <>
+- **Reach Me**
+- Email  <sharon.n.njuraita@gmail.com>
+- Github <https://github.com/Njuraita>
+- LinkedIn <www.linkedin.com/in/sharon-njeri-njuraita>
+- Medium <https://medium.com/@SharonNjeriNjuraita>
+- Portfolio <>
